@@ -16,6 +16,6 @@ public class Main extends YaegerGame {
 
     @Override
     public void setupScenes() {
-
+        
     }
 }
